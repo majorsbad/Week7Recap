@@ -1,0 +1,30 @@
+body{
+  font-family: optima;
+  background-color: #404040;
+  color: azure;
+}
+h1{
+  text-align: center;
+  font-size: 85px;
+  font-family: Copperplate;
+  color: DeepSkyBlue;
+}
+h5{
+  color: white;
+  font-size: 20px;
+  text-align: center;
+}
+h2{
+  color: DodgerBlue;
+  font-size: 40px;
+  font-family: Rockwell;
+}
+h3{
+  color: Crimson;
+  font-size: 26px;
+  font-weight: bold;
+}
+h4{
+  color: #f4c03e;
+
+}
